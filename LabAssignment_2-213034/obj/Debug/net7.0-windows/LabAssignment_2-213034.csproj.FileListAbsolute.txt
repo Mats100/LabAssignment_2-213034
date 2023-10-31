@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\test.Form1.resources
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab_A2\test\bin\Debug\net7.0-windows\LabAssignment_2-213034.exe
+C:\Users\Hp\source\repos\Lab_A2\test\bin\Debug\net7.0-windows\LabAssignment_2-213034.deps.json
+C:\Users\Hp\source\repos\Lab_A2\test\bin\Debug\net7.0-windows\LabAssignment_2-213034.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab_A2\test\bin\Debug\net7.0-windows\LabAssignment_2-213034.dll
+C:\Users\Hp\source\repos\Lab_A2\test\bin\Debug\net7.0-windows\LabAssignment_2-213034.pdb
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.dll
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\refint\LabAssignment_2-213034.dll
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.pdb
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\LabAssignment_2-213034.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab_A2\test\obj\Debug\net7.0-windows\ref\LabAssignment_2-213034.dll
